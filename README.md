@@ -1,4 +1,4 @@
-### Hi there 👋
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caayu&show_icons=true&locale=en&layout=compact" alt="Caayu" /></p>
 
 <!--
 **Caayu/Caayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
